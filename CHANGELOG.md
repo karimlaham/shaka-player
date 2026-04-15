@@ -1,5 +1,12 @@
 # Changelog
 
+## [5.1.1](https://github.com/shaka-project/shaka-player/compare/v5.1.0...v5.1.1) (2026-04-15)
+
+
+### Performance Improvements
+
+* **UI:** Skip touch listeners when maxTouchPoints is 0 ([#9981](https://github.com/shaka-project/shaka-player/issues/9981)) ([d07037b](https://github.com/shaka-project/shaka-player/commit/d07037bb661481450d9a5a7028c7cbfc43f9a9ba))
+
 ## [5.1.0](https://github.com/shaka-project/shaka-player/compare/v5.0.0...v5.1.0) (2026-04-15)
 
 
